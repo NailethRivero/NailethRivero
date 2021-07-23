@@ -9,14 +9,14 @@ I'm a front-end developer and English as a foreign language teacher, passionate 
  - French
 
  Languages and tools:
- - Javascript
- - React.js
- - Node.js
- - Firebase
- - Html
- - Css
- - Figma
- - VS code
+   - Javascript
+   - React.js
+   - Node.js
+   - Firebase
+   - Html
+   - Css
+   - Figma
+   - VS code
  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nailethrivero/)
 - ⚡ Fun fact: I love cats and learning new languages.
