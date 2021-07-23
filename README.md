@@ -1,16 +1,13 @@
-### Hi there 👋
+![codecentration](banner.jpg)
+### Hi there, I'm Naileth! 👋
 
-<!--
-**NailethRivero/NailethRivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer and English as a foreign language teacher, passionate about languages and obsessed with learning new things.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
+- Angular
+- MySQL
+- French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nailethrivero/)
+- ⚡ Fun fact: I love cats and learning new languages.
+
